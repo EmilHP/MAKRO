@@ -186,7 +186,23 @@ filename "Introduction.lyx"
 \end_inset
 
 
-\lang american
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newcommand
+\backslash
+shockname{shock_name_here}
+\end_layout
+
+\end_inset
+
 
 \begin_inset Newpage newpage
 \end_inset

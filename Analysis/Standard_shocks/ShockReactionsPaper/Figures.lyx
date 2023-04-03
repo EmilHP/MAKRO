@@ -174,7 +174,9 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{Shock.png}
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Shock.png}
 \end_layout
 
 \end_inset
@@ -195,51 +197,9 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{GDP decomposition.png}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
+includegraphics[valign=t, width=9cm]{../Output/
 \backslash
-includegraphics[valign=t, width=9cm]{Employment.png}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-includegraphics[valign=t, width=9cm]{Wage.png}
+shockname/GDP decomposition.png}
 \end_layout
 
 \end_inset
@@ -262,7 +222,9 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{GDP deflator decomposition.png}
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Employment.png}
 \end_layout
 
 \end_inset
@@ -283,7 +245,57 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{Budget surplus.png}
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Wage.png}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/GDP deflator decomposition.png}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Budget surplus.png}
 \end_layout
 
 \end_inset
@@ -332,7 +344,9 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{GVA.png}
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/GVA.png}
 \end_layout
 
 \end_inset
@@ -353,51 +367,9 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{Investments.png}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
+includegraphics[valign=t, width=9cm]{../Output/
 \backslash
-includegraphics[valign=t, width=9cm]{Production inputs to services.png}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-includegraphics[valign=t, width=9cm]{Prices.png}
+shockname/Investments.png}
 \end_layout
 
 \end_inset
@@ -420,7 +392,9 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{Import shares.png}
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Production inputs to services.png}
 \end_layout
 
 \end_inset
@@ -441,7 +415,57 @@ status open
 
 
 \backslash
-includegraphics[valign=t, width=9cm]{Exports.png}
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Prices.png}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Import shares.png}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includegraphics[valign=t, width=9cm]{../Output/
+\backslash
+shockname/Exports.png}
 \end_layout
 
 \end_inset

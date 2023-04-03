@@ -342,7 +342,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/ArbejdsProd/}}
+renewcommand
+\backslash
+shockname{ArbejdsProd}
 \end_layout
 
 \end_inset
@@ -466,7 +468,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Arbejdsudbud/}}
+renewcommand
+\backslash
+shockname{Arbejdsudbud}
 \end_layout
 
 \end_inset
@@ -592,7 +596,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/KapitalProd/}}
+renewcommand
+\backslash
+shockname{KapitalProd}
 \end_layout
 
 \end_inset

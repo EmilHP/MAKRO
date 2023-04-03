@@ -389,7 +389,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Importpris/}}
+renewcommand
+\backslash
+shockname{Importpris}
 \end_layout
 
 \end_inset
@@ -469,7 +471,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Oliepris/}}
+renewcommand
+\backslash
+shockname{Oliepris}
 \end_layout
 
 \end_inset
@@ -588,7 +592,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Udenlandske_priser/}}
+renewcommand
+\backslash
+shockname{Udenlandske_priser}
 \end_layout
 
 \end_inset

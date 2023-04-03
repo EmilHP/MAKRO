@@ -354,7 +354,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Rente/}}
+renewcommand
+\backslash
+shockname{Rente}
 \end_layout
 
 \end_inset

@@ -288,7 +288,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Diskontering/}}
+renewcommand
+\backslash
+shockname{Diskontering}
 \end_layout
 
 \end_inset
@@ -416,7 +418,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Loen/}}
+renewcommand
+\backslash
+shockname{Loen}
 \end_layout
 
 \end_inset

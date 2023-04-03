@@ -198,7 +198,8 @@ Increased employment and wages leads to higher household income and increased
 \end_layout
 
 \begin_layout Itemize
-Increased housing demand leads to increased housing prices and housing investment
+Increased housing demand leads to increased housing prices and housing investmen
+t
 \end_layout
 
 \begin_layout Itemize
@@ -319,8 +320,6 @@ Increased real wage relative to user cost of capital make firms substitute
 
 \end_deeper
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status open
 
@@ -328,7 +327,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Overforsel_privat/}}
+renewcommand
+\backslash
+shockname{Overforsel_privat}
 \end_layout
 
 \end_inset
@@ -337,8 +338,6 @@ graphicspath{{../Output/Overforsel_privat/}}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset include
 LatexCommand input
 filename "Figures.lyx"
@@ -412,7 +411,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Offentlig_beskaeftigelse/}}
+renewcommand
+\backslash
+shockname{Offentlig_beskaeftigelse}
 \end_layout
 
 \end_inset
@@ -494,7 +495,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Offentlig_varekoeb/}}
+renewcommand
+\backslash
+shockname{Offentlig_varekoeb}
 \end_layout
 
 \end_inset
@@ -571,7 +574,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Offentlige_investeringer/}}
+renewcommand
+\backslash
+shockname{Offentlige_investeringer}
 \end_layout
 
 \end_inset
@@ -663,7 +668,9 @@ status open
 
 
 \backslash
-graphicspath{{../Output/Eksportmarkedsvaekst/}}
+renewcommand
+\backslash
+shockname{Eksportmarkedsvaekst}
 \end_layout
 
 \end_inset
