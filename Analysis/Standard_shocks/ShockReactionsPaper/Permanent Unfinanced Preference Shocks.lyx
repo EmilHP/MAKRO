@@ -151,10 +151,10 @@
 \begin_body
 
 \begin_layout Section
-Permanent unfinanced financial shocks
+Permanent unfinanced preference shocks
 \begin_inset CommandInset label
 LatexCommand label
-name "sec:Permanent unfinanced financial shock"
+name "sec:Permanent unfinanced preference shock"
 
 \end_inset
 
@@ -162,119 +162,8 @@ name "sec:Permanent unfinanced financial shock"
 \end_layout
 
 \begin_layout Standard
-In this chapter, we look at unfinanced financial shocks.
- Financial shocks all have elements of a negative supply shock, as increased
- costs of finance for investments shift production and make it more expensive.
- It is also a demand shock as it affects private consumption through asset
- prices and asset returns.
- The fundamental mechanisms of the shocks are given by:
-\end_layout
-
-\begin_layout Itemize
-Initial shock changes usercost, returns and asset prices through 'finance'
-\end_layout
-
-\begin_layout Itemize
-Returns and asset prices are affected and in turn affect demand for private
- consumption
-\end_layout
-
-\begin_layout Itemize
-Increased finance costs of housing will decrease demand for housing investments
-\end_layout
-
-\begin_layout Itemize
-Increased finance costs of firm capital works like a negative supply shock
- to capital augmented productivity
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-More production inputs for given production
-\end_layout
-
-\begin_layout Itemize
-Higher unit costs in production
-\end_layout
-
-\begin_layout Itemize
-Higher unit costs leads to higher output prices
-\end_layout
-
-\begin_layout Itemize
-Higher output prices leads to higher demand prices
-\end_layout
-
-\begin_layout Itemize
-Higher prices decrease demand over time
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Decreased demand: Directly to investments and indeirectly to others
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Decreased demand leads to decreased sectoral production
-\end_layout
-
-\begin_layout Itemize
-Decreased sectoral production leads to decreased sectoral production inputs
-\end_layout
-
-\begin_layout Itemize
-Decreased intermediate inputs leads to decreased imports and domestic sectoral
- output
-\end_layout
-
-\begin_layout Itemize
-Decreased capital demand leads to decreased investments from imports and
- domestic sectoral output
-\end_layout
-
-\begin_layout Itemize
-Decreased labor demand leads to decreased wages, employment and labor supply
-\end_layout
-
-\begin_layout Itemize
-Decreased employment and wages leads to lower household income and decreased
- demand for private consumption and housing
-\end_layout
-
-\begin_layout Itemize
-Decreased housing demand leads to decreased housing prices and investments
- in housing
-\end_layout
-
-\begin_layout Itemize
-Decreased housing prices leads to decreased liquidity and demand for private
- consumption and housing
-\end_layout
-
-\begin_layout Itemize
-Decreased production leads to lower output prices
-\end_layout
-
-\begin_layout Itemize
-Lower output prices leads to lower demand prices
-\end_layout
-
-\begin_layout Itemize
-Decreased prices dampens fall in demand over time
-\end_layout
-
-\begin_layout Itemize
-Full crowding out in employment
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Note that all shocks are unfinanced - see 'The reaction of the public sector'
- in the introduction.
- It should also be noted that all the shocks are synthetic shocks as foreign
- demand and interest rates are unchanged.
- This helps analyzing the mechanisms at work, but is not very realistic.
+In this chapter, we look at unfinanced preference shocks.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -285,63 +174,108 @@ Note that all shocks are unfinanced - see 'The reaction of the public sector'
 \end_layout
 
 \begin_layout Subsection
-Interest rate
+Household discount factor
 \end_layout
 
 \begin_layout Standard
-The ECB key interest rate is increased permanently by 1 percentage point.
- This is a synthetic shock as foreign prices and foreign demand are unchanged.
- 
-\end_layout
-
-\begin_layout Standard
-Note:
+The household discount factor is decreased permanently by 1 percentage point.
 \end_layout
 
 \begin_layout Itemize
-There is a strong negative effect on domestic stock prices in the first
- period
+Households are more impatient and will immediately increase their consumption
+\end_layout
+
+\begin_layout Itemize
+In the short run and medium term it works as a positive (but gradually declining
+) shock to private consumption and housing demand
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-As a higher discount rate lowers the value of the firm
+Increased demand leads to increased production
 \end_layout
 
 \begin_layout Itemize
-This lowers the real pension wealth and the real wealth of the households
+Increased sectoral production leads to increased sectoral production inputs
+\end_layout
+
+\begin_layout Itemize
+Increased material inputs leads to increased imports and domestic sectoral
+ output
+\end_layout
+
+\begin_layout Itemize
+Increased capital demand leads to increased investmens from imports and
+ domestic sectoral output
+\end_layout
+
+\begin_layout Itemize
+Increased labor demand leads to increased wages, employment and labor supply
+\end_layout
+
+\begin_layout Itemize
+Increased employment and wages leads to higher household income and increased
+ demand for private consumption and housing
+\end_layout
+
+\begin_layout Itemize
+Increased housing demand leads to increased housing prices and investments
+ in housing
+\end_layout
+
+\begin_layout Itemize
+Increased housing prices lead to increased liquidity and demand for private
+ consumption and housing
+\end_layout
+
+\begin_layout Itemize
+Increased production leads to higher output prices
+\end_layout
+
+\begin_layout Itemize
+Higher output prices lead to higher demand prices
+\end_layout
+
+\begin_layout Itemize
+Increased demand prices dampen demand over time
+\end_layout
+
+\begin_layout Itemize
+Full crowding out in employment
+\end_layout
+
+\begin_layout Itemize
+Positive short run effect on government budget
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-User cost for housing increase in the long run as finance is more costly,
- but is in the short run strongly affected by expected changes in future
- housing prices due to lower housing demand stemming from lower household
- income
+The increased short and medium term consumption will reduce household wealth
+ and long run consumption
 \end_layout
 
 \begin_layout Itemize
-The economy will react as if hit by a negative demand shock to investments,
- but with a large substitution effect away from capital the negative effects
- on GVA and GDP will be more severe
+55 years after the shock the negative effect on wealth has not stabilized
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We do see the negative effect on consumption, but this has also not stabilized
 \end_layout
 
 \begin_layout Itemize
-Scale effects in exports will set in as structural GVA is decreased.
- This will hinder crowding out in exports and increase the severity of the
- shock
+Households live many years and give inheritance - so it will stabilize very
+ slowly
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+In the long run it works as a negative shock to private consumption and
+ housing demand
 \end_layout
 
 \begin_layout Itemize
-Strong negative short run effect on government budget due to large temporary
- drop in employment
-\end_layout
-
-\begin_layout Itemize
-Long run effect on government budget and fiscal sustainability can very
- well be positive as lower expenses due to lower wages and higher revenue
- from household and pension returns might outweigh the lower revenue from
- income taxes
+Negative long run effect on government budget and fiscal sustainability
 \end_layout
 
 \begin_layout Standard
@@ -354,7 +288,135 @@ status open
 
 
 \backslash
-graphicspath{{Output/Rente/}}
+graphicspath{{../Output/Diskontering/}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset CommandInset include
+LatexCommand input
+filename "Figures.lyx"
+
+\end_inset
+
+
+\lang american
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Wages through the Nash Negotiation Weight
+\end_layout
+
+\begin_layout Standard
+The Nash negotiation weight is decreased permanently by 1 percentage point.
+\end_layout
+
+\begin_layout Itemize
+Workers receive a larger share of the surplus
+\end_layout
+
+\begin_layout Itemize
+On one hand this increases household income and works as a positive demand
+ shock to private consumption and housing - for an isolated analysis of
+ this shock refer to the demand shock via lump sum transfers
+\end_layout
+
+\begin_layout Itemize
+On the other hand it tightens the wedge between the marginal product of
+ labor and the wage
+\end_layout
+
+\begin_layout Itemize
+This wedge needs to pay for hiring costs so firms reduce their labor demand
+\end_layout
+
+\begin_layout Itemize
+For most other shocks reduced labor demand lowers the wages, but here the
+ higher wages are the cause of the lower labor demand and structural unemploymen
+t increase
+\end_layout
+
+\begin_layout Itemize
+The shock also works as a negative supply shock to labor - for an isolated
+ analysis of this shock refer to the supply shock to labor via participation
+ (with opposite sign)
+\end_layout
+
+\begin_layout Itemize
+Higher wages gives higher unit costs and higher prices
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This lowers exports and increases import shares
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Real household income increases
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Effect from higher wages and lower employment makes net effect from wage
+ income very small
+\end_layout
+
+\begin_layout Itemize
+Larger unemployment are compensated and this increase household income this
+ dominates effect from higher prices
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+The shock is contractionary in employment
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+In the short run the employment gap is positive as actual employment rigidly
+ decrease to its structural level
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+In the short run the shock is expansionary in GVA and GDP as a large permanent
+ shift to more capital intensive production increase short term investments
+ a lot and firms can increase utilization on labor and capital in the short
+ run
+\end_layout
+
+\begin_layout Itemize
+In the medium and long term the shock is also contractionary in GVA and
+ GDP as labor input is permanently lower
+\end_layout
+
+\begin_layout Itemize
+Negative long run effect on government budget and fiscal sustainability
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graphicspath{{../Output/Loen/}}
 \end_layout
 
 \end_inset

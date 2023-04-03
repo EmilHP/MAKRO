@@ -328,7 +328,7 @@ status open
 
 
 \backslash
-graphicspath{{Output/Overforsel_privat/}}
+graphicspath{{../Output/Overforsel_privat/}}
 \end_layout
 
 \end_inset
@@ -412,7 +412,7 @@ status open
 
 
 \backslash
-graphicspath{{Output/Offentlig_beskaeftigelse/}}
+graphicspath{{../Output/Offentlig_beskaeftigelse/}}
 \end_layout
 
 \end_inset
@@ -494,7 +494,7 @@ status open
 
 
 \backslash
-graphicspath{{Output/Offentlig_varekoeb/}}
+graphicspath{{../Output/Offentlig_varekoeb/}}
 \end_layout
 
 \end_inset
@@ -571,7 +571,7 @@ status open
 
 
 \backslash
-graphicspath{{Output/Offentlige_investeringer/}}
+graphicspath{{../Output/Offentlige_investeringer/}}
 \end_layout
 
 \end_inset
@@ -663,7 +663,7 @@ status open
 
 
 \backslash
-graphicspath{{Output/Eksportmarkedsvaekst/}}
+graphicspath{{../Output/Eksportmarkedsvaekst/}}
 \end_layout
 
 \end_inset
