@@ -162,25 +162,86 @@ name "sec:Indledning"
 \end_layout
 
 \begin_layout Standard
-The purpose of this note is to illustrate the properties of the most recent
- version of MAKRO to a series of shocks.
+This working paper aims to illustrate the responses of MAKRO to a series
+ of shocks.
  The model is documented in several companion documents.
- Before analyzing the impact of specific shocks we discuss general properties
- of the transmission mechanisms present in the model.
+ Before analyzing the impact of specific shocks, we discuss the general
+ properties of the transmission mechanisms present in the model.
 \end_layout
 
 \begin_layout Standard
-First we describe the general response to demand shocks (Section 1.1), followed
- by similar considerations for supply shocks (Section 1.2 for shocks to labor
- supply and productivity, section 1.3 for shocks to foreign prices and section
- 1.4 for financial shocks).
- After this we discuss how the financing of public expenditure affects the
- dynamic responses of the model (Section 1.5).
- Finally, we write briefly about the sectors in MAKRO.
- Given their large contribution to GDP it is often enough to look at the
- service and manufacturing sectors if one wants to understand the marginal
- properties of the model (Section 1.6).
- The individual shock analyzes are described in the subsequent sections.
+First, we describe the general response to demand shocks (section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:demand-mechanisms"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+), followed by the responses to supply shocks (section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:supply-mechanisms"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ for shocks to labor supply and productivity, section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:foreign-price-mechanisms"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ for shocks to foreign prices, and section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:financial-mechanisms"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ for financial shocks).
+ After this, we discuss how fiscal policy responses affect the model's dynamic
+ responses (section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:fiscal-response"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ Finally, we write briefly about the sectors in MAKRO (section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:sectors"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ Given their significant contribution to GDP, it is often enough to look
+ at the service and manufacturing sectors to understand the marginal properties
+ of the model.
+\end_layout
+
+\begin_layout Standard
+Following the exposition of the general mechanisms at play for all shocks,
+ we analyze specific shocks in subsequent sections.
 \begin_inset Newpage newpage
 \end_inset
 
@@ -189,6 +250,13 @@ First we describe the general response to demand shocks (Section 1.1), followed
 
 \begin_layout Subsection
 Fundamental mechanisms when demand increases
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:demand-mechanisms"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -201,36 +269,36 @@ A positive demand shock is a shock that increases domestic demand for given
  The demand curve shifts right.
  This occurs through changes in private consumption, public consumption,
  investments, exports or imports.
- The shock can be direct as with a shock to government consumption, but it is
- often indirect as with shocks to the income tax which change household
- income.
- Irrespective, the way the different demand shocks propagate through the
- model economy is similar and we discuss it in this section.
+ The shock can be direct as with a shock to government consumption, but
+ it is often indirect as with shocks to the income tax which change household
+ income and subsequently consumption.
+ Irrespectively, different demand shocks propagate through the model economy
+ in a similar way which we discuss it in this section.
 \end_layout
 
 \begin_layout Subsubsection
-Increased demand leads to increased sector production
+Increased demand leads to increased production
 \end_layout
 
 \begin_layout Standard
 When demand increases, production from different sectors will increase via
- the input / output system.
- For given output prices and unit costs firms will want to meet the increased
- demand in order to increase profits.
-\end_layout 
+ the input/output system.
+ For given output prices and unit costs, firms will want to meet the increased
+ demand to increase profits.
+\end_layout
 
 \begin_layout Subsubsection
-Increased sectoral production leads to increased production inputs
+Increased production leads to increased production inputs
 \end_layout
 
 \begin_layout Standard
-In order to increase production, firms need to increase their capacity utilizati
-on and/or their input of intermediates, labor and capital.
+To increase production, firms must increase their capacity utilization and
+ input of intermediates, labor, and capital.
  Firms invest in capital based on their expectations for production in the
  coming periods.
- In the short and medium run, there is decreasing returns to scale due to
- installation costs, while in the long run there is constant returns to
- scale.
+ In the short and medium run, there are decreasing returns to scale due
+ to installation costs, while in the long run, there are constant returns
+ to scale.
  Capacity utilization means that production in the short run is not only
  affected by the amount of production inputs used.
  In this manner, production in the individual sectors can increase more
@@ -239,15 +307,14 @@ on and/or their input of intermediates, labor and capital.
 
 \begin_layout Standard
 Time-to-build and installation costs on capital mean that user costs on
- capital increase in the short run relative to other inputs and the K/L
+ capital increase in the short run relative to other inputs, and the K/L
  ratios in the individual sectors decrease.
  In the short run, it is thus easier to increase factor input from labor
  and intermediates compared to capital.
 \end_layout
 
 \begin_layout Subsubsection
-Increased intermediate inputs leads to increased imports and domestic sectoral
- output
+Increased intermediate inputs leads to increased imports and domestic output
 \end_layout
 
 \begin_layout Standard
@@ -258,12 +325,12 @@ Increased demand for intermediates results in increased demand for goods
 
 \begin_layout Subsubsection
 Increased capital demand leads to increased investments from imports and
- domestic sectoral output 
+ domestic output
 \end_layout
 
 \begin_layout Standard
-Increased investment also results in increased demand for production from
- domestic sectors and imports that deliver inputs to investment.
+Increased investments also increase demand for imports and production from
+ domestic sectors contributing to investment goods.
 \end_layout
 
 \begin_layout Subsubsection
@@ -376,7 +443,7 @@ Higher output prices leads to higher demand prices
 \end_layout
 
 \begin_layout Standard
-The input / output system mechanically links higher output prices to higher
+The input/output system mechanically links higher output prices to higher
  demand prices based on input shares.
 \end_layout
 
@@ -388,8 +455,8 @@ Increased prices dampens the quantity demand over time
 Increased prices reduce the quantity demand.
  In the product market for goods and services, the increased prices mean
  lower demand.
- For intermediates, the effect is modest, as the substitution elasticities are
- typically small.
+ For intermediates, the effect is modest, as the substitution elasticities
+ are typically small.
  Investments are also generally not very sensitive to changes in investment
  prices and react more as a consequence of lower production due to the fall
  in other demand components.
@@ -404,8 +471,8 @@ ntly due to changes in relative prices.
 \begin_layout Standard
 In addition, domestic demand is significantly affected by rising prices
  through the effect of relative prices on import content.
- Thus, the demand for domestic production of intermediates or private consumption
- will fall, even though the general demand for these components is only
+ Thus, the demand for domestic production of intermediates or private consumptio
+n will fall, even though the general demand for these components is only
  to a lesser extent affected by rising prices.
  As with exports, this reaction to relative prices is gradual.
 \end_layout
@@ -440,13 +507,21 @@ Wages will typically grow more than domestic output prices, so that product
 \end_inset
 
 
-\begin_inset Newpage newpage\end_inset
+\begin_inset Newpage newpage
+\end_inset
 
 
 \end_layout
 
 \begin_layout Subsection
 Fundamental mechanisms when supply increases
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:supply-mechanisms"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -461,7 +536,8 @@ A positive supply shock decreases prices for any given quantity produced.
  (lowers effective costs of one or more production inputs), lower financial
  costs (lower capital costs) or lower foreign prices (lower intermediate
  input or investment costs).
- With output prices being set as a markup over costs, these prices also fall.
+ With output prices being set as a markup over costs, these prices also
+ fall.
  Shocks to foreign prices also affect the demand prices directly through
  imports.
  Furthermore shocks to foreign prices affect demand through the import shares
@@ -518,7 +594,7 @@ Lower output prices leads to lower demand prices
 \end_layout
 
 \begin_layout Standard
-The input / output system mechanically links lower output prices to lower
+The input/output system mechanically links lower output prices to lower
  demand prices based on input shares.
 \end_layout
 
@@ -605,6 +681,13 @@ textit{https://www.dst.dk/extranet/AdamMultiplikatorer/2020okt/Muleks20.html}
 
 \begin_layout Subsection
 Fundamental mechanisms when foreign prices increase
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:foreign-price-mechanisms"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -623,8 +706,8 @@ In MAKRO there are both import prices and export competing prices.
 \begin_layout Standard
 A higher oil price affects all import and export competing prices, but energy
  prices are affected more.
- A higher foreign price excluding oil also affects all import and export competing prices,
- but energy prices are affected less.
+ A higher foreign price excluding oil also affects all import and export
+ competing prices, but energy prices are affected less.
  Realistic shocks to the oil price or to the foreign price should affect
  the foreign demand market and foreign interest rates as movements in different
  foreign variables are correlated.
@@ -747,6 +830,13 @@ The negative general equilibrium effects on employment and wages from the
 
 \begin_layout Subsection
 Fundamental mechanisms for financial shocks
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:financial-mechanisms"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -768,7 +858,8 @@ Financial shocks affect firms and households.
 \end_layout
 
 \begin_layout Subsubsection
-Returns and asset prices are affected and will in turn affect household demand
+Returns and asset prices are affected and will in turn affect household
+ demand
 \end_layout
 
 \begin_layout Standard
@@ -801,6 +892,7 @@ An increase in the cost of finance will increase the user cost for the relevant
 Increased finance costs of firm capital will increase unit costs and substitutio
 n will decrease firm investments
 \end_layout
+
 \begin_layout Standard
 The user cost for firm investments will also be affected by financial costs.
  Firm investments are financed partly by borrowing and partly by issuing
@@ -809,8 +901,8 @@ The user cost for firm investments will also be affected by financial costs.
  the return on stocks.
  A higher interest rate and/or a higher future return on domestic stocks
  will increase user cost of firm investments.
- This will increase the unit costs and act like a negative supply shock described
- in the section 'Fundamental mechanisms when supply increase'.
+ This will increase the unit costs and act like a negative supply shock
+ described in the section 'Fundamental mechanisms when supply increase'.
  Furthermore, there will be substitution away from capital.
  This will decrease firm investment for given production.
 \begin_inset Newpage newpage
@@ -821,6 +913,13 @@ The user cost for firm investments will also be affected by financial costs.
 
 \begin_layout Subsection
 The reaction of the public sector
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:fiscal-response"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -861,6 +960,13 @@ Whether or not (and how) a budget balance is financed matters.
 
 \begin_layout Subsection
 A brief note on the sectors in in MAKRO
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:sectors"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
